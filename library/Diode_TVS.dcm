@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P6SMB15CA
+D Биполярный TVS диод 12.8В
+K tvs
+F https://lcsc.com/product-detail/TVS_Littelfuse_P6SMB15CA_P6SMB15CA_C80387.html
+$ENDCMP
+#
+$CMP P6SMB6.8CA
+D Биполярный TVS диод 6.8В
+K tvs
+F https://lcsc.com/product-detail/TVS_P6SMB6-8CA_C135459.html
+$ENDCMP
+#
+$CMP SM712
+D TVS диод в корпусе SOT-23
+K tvs
+F https://lcsc.com/product-detail/TVS_SM712_C127543.html
+$ENDCMP
+#
+$CMP SMF05CT1G
+D Массив из 5 TVS диодов
+K TVS
+F https://www.onsemi.com/pub/Collateral/SMF05C-D.PDF
+$ENDCMP
+#
+#End Doc Library

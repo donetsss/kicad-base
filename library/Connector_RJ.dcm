@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1129-05-S80BP-X
+D Ethernet коннектор сдвоенный
+K ethernet
+F https://lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_CONNFLY-Elec-DS1129-05-S80BP-X_C86580.html
+$ENDCMP
+#
+$CMP HR911105A
+D Ethernet коннектор
+K ethernet
+F https://lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_Zhongshan-HanRun-Elec-HR911105A_C12074.html
+$ENDCMP
+#
+#End Doc Library

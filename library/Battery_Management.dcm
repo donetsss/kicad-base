@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TP4056E
+D Контролер заряда Li ion батарей 1А.
+K liion
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj2sbe34ujfAhXIFiwKHZDUC5UQFjAAegQICxAC&url=https%3A%2F%2Fdlnmh9ip6v2uc.cloudfront.net%2Fdatasheets%2FPrototyping%2FTP4056.pdf&usg=AOvVaw2gHFLyoq4KAKjtj1Tkmq0z
+$ENDCMP
+#
+#End Doc Library

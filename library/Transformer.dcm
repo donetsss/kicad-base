@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ETC1-1T-2TR
+D .1-200MHz IL 1.5dB Impedance Ratio 1:1
+K rf transformer
+F https://eu.mouser.com/datasheet/2/249/ETC1-1T-2TR-335359.pdf
+$ENDCMP
+#
+#End Doc Library

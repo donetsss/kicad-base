@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX9813LEKA
+D Микрофонный усилитель 20dB
+K amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9812-MAX9813L.pdf
+$ENDCMP
+#
+$CMP PAM8302AADCR
+D Моно усилитель 2,5Вт класса D
+K amplifier
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP PAM8302AASCR
+D Моно усилитель 2,5Вт класса D
+K amplifier
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+#End Doc Library

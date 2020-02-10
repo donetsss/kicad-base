@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7111S2015X02LF
+D 6-пиновый SIM держатель карты
+K sim
+F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/vjw54355.pdf
+$ENDCMP
+#
+$CMP SIM-08A
+D 6-пиновый SIM держатель карты
+K sim
+F https://lcsc.com/product-detail/Connector-Card-Sockets_Korean-Hroparts-Elec-SIM-08A_C106816.html
+$ENDCMP
+#
+$CMP SNO-1305-B
+D Nano SIM держатель карты
+K sim
+F https://datasheet.lcsc.com/szlcsc/SOFNG-SIM-1305-6P_C111371.pdf
+$ENDCMP
+#
+#End Doc Library

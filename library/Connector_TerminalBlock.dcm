@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KF15EDG-3.5_2P
+D Клеммный разъем на плату угловой, шаг 3,5мм
+$ENDCMP
+#
+$CMP WJ500V-5.08-2P-14-00A
+D Разъем на плату под отвертку 2 вывода, шаг 5,08мм
+K terminal block
+F https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Ningbo-Kangnex-Elec-WJ500V-5-08-2P-14-00A_C8465.html
+$ENDCMP
+#
+$CMP WJ500V-5.08-3P-14-00A
+D Разъем на плату под отвертку, шаг 5,08мм
+F https://lcsc.com/product-detail/Terminal-Blocks-Headers-Plugs-and-Sockets_Ningbo-Kangnex-Elec-WJ500V-5-08-3P-14-00A_C72334.html
+$ENDCMP
+#
+#End Doc Library

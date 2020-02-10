@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC363S8G
+D Делитель на 8 от 0 до 12ГГц
+K divider
+F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc363s8g.pdf
+$ENDCMP
+#
+#End Doc Library

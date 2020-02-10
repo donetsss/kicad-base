@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F26K20
+D MCU 16 bit
+K pic, microchip
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001303H.pdf
+$ENDCMP
+#
+$CMP STM32F407VGT6
+D Микроконтроллер 32 бита, 1 Мб FLASH 192 кБ RAM
+K stm32
+F https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F407VGT6_STM32F407VGT6_C12345.html
+$ENDCMP
+#
+#End Doc Library

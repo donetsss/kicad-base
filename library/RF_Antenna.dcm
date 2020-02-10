@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AN1603-433
+D Антенна SMD 433МГц
+K 433 antenna
+F https://lcsc.com/product-detail/Others_Rainsun-microwave-Tech-AN1603-433_C122806.html
+$ENDCMP
+#
+$CMP INVERTED_F
+D Inverted F Antenna 2.4 GHz
+K 2.4Ghz
+F http://www.ti.com/lit/an/swru120d/swru120d.pdf
+$ENDCMP
+#
+$CMP WK-3G026-FPC
+D Антенна GSM F-образная
+K gsm antenna
+$ENDCMP
+#
+#End Doc Library

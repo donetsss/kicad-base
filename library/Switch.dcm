@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 25436NAH
+D SPDT переключатель THD
+K spdt switch
+F https://www.apem.com/int/index.php?controller=attachment&id_attachment=858
+$ENDCMP
+#
+$CMP DSHP02TSGET
+D Сдвоенный SPST переключатель 1.27мм SMT
+K spst switch
+F https://datasheet.lcsc.com/szlcsc/Dongguan-Guangzhu-Industrial-DSHP02TSGET_C40735.pdf
+$ENDCMP
+#
+$CMP KAN0444-0201B_102
+D Кнопка SPST-NO 4.00mm x 3.00mm 2.00mm 50mA @ 12VDC
+K button switch
+F https://lcsc.com/product-detail/Others_GANGYUAN-KAN0444-0201B-102_C231644.html
+$ENDCMP
+#
+$CMP MSK-12C02
+D SPDT переключатель SMD
+K spdt switch
+F http://www.baileyproducts.com/files/99129018.pdf
+$ENDCMP
+#
+$CMP SKQUCAA010
+D Джойстика на 4 направления с центральной кнопкой
+K joystick
+F https://cdn-shop.adafruit.com/datasheets/SKQUCAA010-ALPS.pdf
+$ENDCMP
+#
+$CMP TS-1185-C-A-A
+D Кнопка SPST-NO 4.00mm x 3.00mm 2.00mm 50mA @ 12VDC
+K button switch
+$ENDCMP
+#
+#End Doc Library

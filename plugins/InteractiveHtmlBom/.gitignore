@@ -1,0 +1,8 @@
+*.pyc
+.idea
+.vscode
+*.iml
+test
+releases
+demo
+config.ini

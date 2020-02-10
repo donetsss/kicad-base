@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IM01GR
+D Сигнальное реле 3VDC
+K relay реле
+$ENDCMP
+#
+#End Doc Library

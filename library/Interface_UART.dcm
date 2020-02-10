@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102-GMR
+D USB UART Transceiver
+K usb
+F https://lcsc.com/product-detail/USB_SILICON-LABS_CP2102-GMR_CP2102-GMR_C6568.html
+$ENDCMP
+#
+$CMP TP75176E-FR
+D RS485 трансивер 10Mbps 3V ~ 5.5V
+K rs485
+F https://lcsc.com/product-detail/Others_3PEAK-TP75176E-FR_C248587.html
+$ENDCMP
+#
+#End Doc Library

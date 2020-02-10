@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC817
+D NPN 45В 500мА
+K npn
+F https://www.diodes.com/assets/Datasheets/ds11107.pdf
+$ENDCMP
+#
+$CMP BC849C
+D NPN 100мА 30В SOT-23
+K npn
+F https://lcsc.com/product-detail/Others_NXP-Semicon_BC849C-215_NXP-Semicon-BC849C-215_C334244.html
+$ENDCMP
+#
+$CMP BFS17
+D NPN 1 GHz wideband transistor
+K npn
+F http://www.mouser.com/ds/2/302/BFS17-36526.pdf
+$ENDCMP
+#
+#End Doc Library

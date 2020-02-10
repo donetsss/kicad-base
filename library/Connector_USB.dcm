@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOLEX_47346-0001
+D Micro USB connector SMD
+K usb, connector
+F https://lcsc.com/product-detail/USB-Connectors_MOLEX_47346-0001_47346-0001_C132560.html
+$ENDCMP
+#
+#End Doc Library

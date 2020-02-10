@@ -1,0 +1,198 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.15u
+D 0,15мкФ 50В ±10%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 0.1u
+D 0,1мкФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 1.5p
+D 1,5пФ 50В ±5%
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1-5pF-1R5-0-1pF-50V_C123541.html
+$ENDCMP
+#
+$CMP 1.8p
+D 1.8pF ±0.25pF 50V NP0 0603
+K CAP
+F https://lcsc.com/product-detail/Others_YAGEO-CC0603CRNPO9BN1R8_C282244.html
+$ENDCMP
+#
+$CMP 100p
+D 100пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 10n
+D 10нФ 50В ±10%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 10p
+D 10пФ 100В ±1%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 10u
+D 10мкФ 16В ±20%
+K capacitor
+$ENDCMP
+#
+$CMP 120p
+D 120pF 50V 0603 ±2%
+K capacitor
+F https://lcsc.com/product-detail/Others_YAGEO-CC0603GRNPO9BN121_C327168.html
+$ENDCMP
+#
+$CMP 12p
+D 12pF ±5% 50V C0G 0603
+K CAP
+F https://lcsc.com/product-detail/Others_TDK_C1608C0G1H120J080AA_TDK-C1608C0G1H120J080AA_C183112.html
+$ENDCMP
+#
+$CMP 15p
+D 15пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 180p
+D 180пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 18p
+D 18пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 1n
+D 1нФ 50В ±1%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 1p
+D 1pF ±0.25pF 50V C0G 0603
+K CAP
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK_CGA3E2C0G1H010CT0Y0N_1pF-1R0-0-25pF-50V_C165824.html
+$ENDCMP
+#
+$CMP 1u
+D 1мкФ 50В ±5%
+K capacitor
+$ENDCMP
+#
+$CMP 2.2u
+D 2,2мкФ 50В ±10%
+K capacitor
+$ENDCMP
+#
+$CMP 2.4p
+D 2,4пФ 50В ±0.1пФ
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 22n
+D 22нФ 50В ±5%
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_2-2nF-223-10-50V_C106222.html
+$ENDCMP
+#
+$CMP 22p
+D 22пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 22u
+D 22 мкФ 6.3 В ±20%
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_22uF-226-20-6-3V_C109448.html
+$ENDCMP
+#
+$CMP 27p
+D 27пФ 50В ±5%
+K capacitor
+$ENDCMP
+#
+$CMP 33p
+D 33пФ 50В ±5%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 4.3p
+D 4,3пФ 50В ±0.25пФ
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 4.7n
+D 4,7нФ 50В ±10%
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_4-7nF-472-10-50V_C106218.html
+$ENDCMP
+#
+$CMP 4.7u
+D 4,7мкФ 6,3В ±20%
+K capacitor
+$ENDCMP
+#
+$CMP 470p
+D 470пФ 50В ±5%
+K capacitor
+$ENDCMP
+#
+$CMP 47n
+D 47нФ 50В ±5%
+K capacitor
+F https://lcsc.com/product-detail/Others_YAGEO-CC0603ZRY5V9BB473_C327289.html
+$ENDCMP
+#
+$CMP 5.1p
+D 5,1пФ 50В ±5%
+K capacitor
+$ENDCMP
+#
+$CMP 5.6p
+D 5,6пФ 50В ±5%
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_5-6pF-5R6-0-25pF-50V_C1674.html
+$ENDCMP
+#
+$CMP 8.2p
+D 8,2пФ 50В ±1%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP 8p
+D 8pF ±0.5pF 50V C0G 0603
+K CAP
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK_CGA3E2C0G1H080DT0Y0N_8pF-8R0-0-5pF-50V_C165823.html
+$ENDCMP
+#
+$CMP 9.1p
+D 9,1пФ 50В ±1%
+K capacitor
+F http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0603
+K capacitor
+$ENDCMP
+#
+#End Doc Library

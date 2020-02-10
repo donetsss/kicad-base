@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PN5321A3HN
+D NFC трансивер 13.56МГц
+K nfc
+F https://lcsc.com/product-detail/RF-Transceiver-ICs_NXP-Semicon_PN5321A3HN-C106-55_NXP-Semicon-PN5321A3HN-C106-55_C28925.html
+$ENDCMP
+#
+#End Doc Library

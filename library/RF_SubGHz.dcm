@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AX5243
+D 27-1050 MHz Transceiver
+F https://www.onsemi.com/pub/Collateral/AX5243-D.PDF
+$ENDCMP
+#
+#End Doc Library

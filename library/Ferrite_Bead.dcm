@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18HE152SN1D
+D 1.5kΩ @ 100MHz 500mA 1 500mΩ 0603 Ferrite Beads
+K ferrite bead
+F https://lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics_BLM18HE152SN1D_Murata-Electronics-BLM18HE152SN1D_C82155.html
+$ENDCMP
+#
+#End Doc Library

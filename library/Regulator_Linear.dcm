@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117-3.3
+D 3,3В 1А
+K ldo
+$ENDCMP
+#
+$CMP LM2940IMP-5.0
+D Регулятор напряжения 5В 1А SOT-223
+K ldo
+F https://static.chipdip.ru/lib/142/DOC000142741.pdf
+$ENDCMP
+#
+$CMP LT1761ES5-3.3
+D Регулятор напряжения 3,3В 100мА TSOT-23-5
+K ldo
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjXptalzvDiAhULwsQBHcq6COsQFjADegQIARAC&url=https%3A%2F%2Fwww.analog.com%2Fmedia%2Fen%2Ftechnical-documentation%2Fdata-sheets%2F1761sff.pdf&usg=AOvVaw1HucGzvdf9orxq4rd3SOF5
+$ENDCMP
+#
+$CMP LT1761ES5-5
+D Регулятор напряжения 5В 100мА TSOT-23-5
+K ldo
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjXptalzvDiAhULwsQBHcq6COsQFjADegQIARAC&url=https%3A%2F%2Fwww.analog.com%2Fmedia%2Fen%2Ftechnical-documentation%2Fdata-sheets%2F1761sff.pdf&usg=AOvVaw1HucGzvdf9orxq4rd3SOF5
+$ENDCMP
+#
+$CMP LT1763CS8
+D Регулятор напряжения 1,22-20В 500мА SOIC-8
+K ldo
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1763fh.pdf
+$ENDCMP
+#
+$CMP LT1763CS8-2.5
+D Регулятор напряжения 2,5В 500мА SOIC-8
+K ldo
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1763fh.pdf
+$ENDCMP
+#
+$CMP LT1763CS8-3.3
+D Регулятор напряжения 3,3В 500мА SOIC-8
+K ldo
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1763fh.pdf
+$ENDCMP
+#
+$CMP MCP1700T
+D LDO 2.5В 250мА SOT-23
+K ldo
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Low-Quiescent-Current-LDO-20001826E.pdf
+$ENDCMP
+#
+$CMP ME6206A30M3G
+D LDO 3В 300мА SOT-23-3
+K ldo
+F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6206A30M3_C78994.pdf
+$ENDCMP
+#
+$CMP ME6206A33P1G
+D LDO 3,3В 300мА SOT-89
+K ldo
+F https://datasheet.lcsc.com/szlcsc/Nanjing-Micro-One-Elec-ME6206A33P1G_C236700.pdf
+$ENDCMP
+#
+$CMP MIC29302WU
+D Регулируемый источник питания 3A
+K ldo
+F https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MIC29302WU_MIC29302WU_C11149.html
+$ENDCMP
+#
+#End Doc Library

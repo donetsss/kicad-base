@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BH-10
+D Вилка на плату прямая 10 конт. 2.54мм
+K header
+F https://www.chipdip.ru/product/idc-10ms?from=rec_product
+$ENDCMP
+#
+$CMP BH-40
+D Вилка на плату прямая 40 конт. 2.54мм
+K idc
+F https://static.chipdip.ru/lib/463/DOC002463525.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 22R
+D 22 ±1% 1/10W 0603_x4 Resistor Array
+K 22r
+F https://datasheet.lcsc.com/szlcsc/1811141341_Ever-Ohms-Tech-CRA034RF22R0P05Z_C149866.pdf
+$ENDCMP
+#
+#End Doc Library

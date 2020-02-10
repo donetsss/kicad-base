@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLF2012C150KT000
+D 15мкГн 0805
+K inductor
+F https://lcsc.com/product-detail/Inductors-SMD_TDK_MLF2012C150KT000_TDK-MLF2012C150KT000_C275373.html
+$ENDCMP
+#
+$CMP MLZ2012N6R8LT000
+D 6.8 мкГн 0805
+K inductor
+F https://lcsc.com/product-detail/Inductors-SMD_TDK_MLZ2012N6R8LT000_TDK-MLZ2012N6R8LT000_C82157.html
+$ENDCMP
+#
+#End Doc Library

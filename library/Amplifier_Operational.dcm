@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS90LT012A
+D LVDS to CMOS
+K lvds
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwji27OW2_DiAhUS_SoKHfF5BAwQFjAAegQIAhAC&url=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2FDS90LV012A&usg=AOvVaw1mXcVzXqXYRzxZXZB2i9vB
+$ENDCMP
+#
+$CMP FIN1001
+D CMOS to LVDS Driver
+K lvds
+F http://www.mouser.com/ds/2/149/fin1001-298182.pdf
+$ENDCMP
+#
+$CMP LMV324MT
+D Micro-Power Rail-to-Rail I/O Op Amps
+K amplifier
+$ENDCMP
+#
+$CMP LT1677CS8
+D Малошумящий прецизионный ОУ
+K amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1677fa.pdf
+$ENDCMP
+#
+#End Doc Library

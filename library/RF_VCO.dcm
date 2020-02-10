@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CVCO55CL-1487-1587
+D VCO 1487-1587МГц
+K vco
+F https://eu.mouser.com/datasheet/2/94/CVCO55CL-1487-1587-33388.pdf
+$ENDCMP
+#
+#End Doc Library

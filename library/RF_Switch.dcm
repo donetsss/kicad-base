@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13317-373LF
+D RF Switch ICs 20MHz-6GHz SP3T GaAs
+K rf switch
+F https://eu.mouser.com/datasheet/2/472/SKY13317_373LF_200914K-1524784.pdf
+$ENDCMP
+#
+$CMP SP-2G+
+D Сплиттер/сумматор 1420-1660 МГц
+K splitter
+F https://www.minicircuits.com/pdfs/SP-2G+.pdf
+$ENDCMP
+#
+#End Doc Library

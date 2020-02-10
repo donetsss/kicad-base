@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FC-DA1608BK-470H10
+D Синий светодиод 80~220mcd@10mA
+K led
+F https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Blue-light-SMDLED-80-100mcdatIF-10mA_C84266.html
+$ENDCMP
+#
+$CMP LGQ396-PS-35
+D Зеленый светодиод
+K led
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2493948/LG%20Q396.pdf
+$ENDCMP
+#
+$CMP LSQ976-NR-1
+D Красный светодиод
+K led
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2493948/LG%20Q396.pdf
+$ENDCMP
+#
+#End Doc Library

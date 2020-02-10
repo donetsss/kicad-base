@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC807
+D PNP 45В 500мА
+K pnp
+$ENDCMP
+#
+#End Doc Library

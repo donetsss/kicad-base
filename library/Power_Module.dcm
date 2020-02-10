@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HLK-PM01
+D AC-DC преобразователь 5В 600мА
+K acdc преобразователь
+F https://img.filipeflop.com/files/download/Datasheet-HLK-PM01.pdf
+$ENDCMP
+#
+#End Doc Library

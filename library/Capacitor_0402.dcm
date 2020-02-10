@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.1u
+D CAP CER 0.1UF 10V 10% X5R 0402
+K 100n 0.1u
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM155R61A104KA01D_100nF-104-10-10V_C76997.html
+$ENDCMP
+#
+$CMP 100p
+D CAP CER 100PF 50V 5% NP0 0402
+K 100p
+$ENDCMP
+#
+$CMP 1n
+D CAP CER 1NF 50V 10% NP0 0402
+K capacitor
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_1nF-102-5-50V_C113780.html
+$ENDCMP
+#
+$CMP 33p
+D CAP CER 33PF 50V 5% NP0 0402
+K 33p
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM1555C1H330JA01D_33pF-330-5-50V_C76964.html
+$ENDCMP
+#
+$CMP CGA2B2C0G1H101JT0Y0F
+D 100pF ±5% 50V C0G 0402
+K 100PF
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK_CGA2B2C0G1H101JT0Y0F_100pF-101-5-50V_C76699.html
+$ENDCMP
+#
+$CMP GRM1555C1H120JA01D
+D 12pF ±5% 50V C0G 0402
+K 12PF
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM1555C1H120JA01D_C76948.html
+$ENDCMP
+#
+$CMP GRM1555C1H1R0CA01D
+D 1pF ±0.25pF 50V C0G 0402
+K 1PF
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM1555C1H1R0CA01D_1pF-1R0-0-25pF-50V_C76953.html
+$ENDCMP
+#
+$CMP GRM1555C1H1R8CA01D
+D 1.8pF ±0.25pF 50V C0G 0402
+K 1.8PF
+F https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM1555C1H1R8CA01D_C77178.html
+$ENDCMP
+#
+#End Doc Library

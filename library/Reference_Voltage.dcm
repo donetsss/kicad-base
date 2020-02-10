@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL431AIDBZR
+D Регулируемый ИОН 2,5-36В 100мА
+K reference
+F https://lcsc.com/product-detail/Voltage-References_TI_TL431AIDBZR_TL431AIDBZR_C23892.html
+$ENDCMP
+#
+#End Doc Library

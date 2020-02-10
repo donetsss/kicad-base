@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CA45-B010K107T
+D 100мкФ 10В ±10% B-TYPE
+K tantalum capacitor 100u
+F https://lcsc.com/product-detail/Tantalum-Capacitors_Hunan-Xiangyee-in-S-T-CA45-B010K107T_C122644.html
+$ENDCMP
+#
+$CMP T491A106M006AT
+D 10мкФ 6,3В ±20% A-TYPE
+K tantalum capacitor 10u
+F https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET_T491A106M006AT_10uF-106-20-6-3V_C122261.html
+$ENDCMP
+#
+$CMP T491B107M010AT
+D 100мкФ 10В ±20% B-TYPE
+K tantalum capacitor 100u
+F https://lcsc.com/product-detail/Tantalum-Capacitors_KEMET_T491B107M010AT_100uF-107-20-10V_C90975.html
+$ENDCMP
+#
+$CMP T543B107K010ATE150
+D 100мкФ 10В ±10% B-TYPE
+K tantalum capacitor 100u
+F https://eu.mouser.com/ProductDetail/KEMET/T543B107K010ATE150?qs=sGAEpiMZZMtZ1n0r9vR22ek4IOXFQqWvxV1QcdbldS%2FJaC8hzSvOkg%3D%3D
+$ENDCMP
+#
+$CMP TCJ5477M016R0100
+D 470мкФ 16В ±20% D-TYPE
+K tantalum capacitor 470u
+$ENDCMP
+#
+#End Doc Library

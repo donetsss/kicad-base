@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9515DP
+D I2C репитер сигнала
+K i2c
+F https://lcsc.com/product-detail/Interface-ICs_NXP-Semicon_PCA9515DP_NXP-Semicon-PCA9515DP_C129512.html
+$ENDCMP
+#
+#End Doc Library

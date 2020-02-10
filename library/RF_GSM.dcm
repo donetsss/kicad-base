@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M66
+D Quectel M66 GSM/GPRS-модуль
+K gsm
+$ENDCMP
+#
+$CMP M66-DS
+D Quectel M66-DS двухсимочный GSM/GPRS-модуль
+K gsm, quectel
+$ENDCMP
+#
+#End Doc Library

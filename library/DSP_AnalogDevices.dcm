@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2630ISC6-LM12
+D DAC 12BIT R-R SC70-6
+K dac
+F http://www.linear.com/docs/25031
+$ENDCMP
+#
+#End Doc Library

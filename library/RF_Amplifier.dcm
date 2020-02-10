@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRF4001
+D RF Amplifier .1-6GHz NF .9dB Gain 15.7dB
+K lna, rf
+F https://eu.mouser.com/datasheet/2/777/GRF4001DS-1480268.pdf
+$ENDCMP
+#
+$CMP HMC311SC70ETR
+D RF Amplifier InGaP HBT Gain Block amp SMT, DC - 8 GHz
+K lna, rf
+F https://eu.mouser.com/datasheet/2/609/hmc311sc70-1545726.pdf
+$ENDCMP
+#
+$CMP MGA-86563
+D 0.5-6 ГГц GaAs MMIC LNA
+K lna, rf
+F https://www.mouser.com/ds/2/678/V02-2514EN-DS-MGA-86563-27Oct20100-909324.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2596DSADJR4G
+D Понижающий DC-DC конвертер на 3А.
+K step-down
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP TPS60400DBVR
+D 60мА инвертор напряжения
+K invertor
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TPS60400DBVR_C9839.pdf
+$ENDCMP
+#
+#End Doc Library

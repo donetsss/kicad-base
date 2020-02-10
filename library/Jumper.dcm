@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SolderJumper_2_Open
+D Перемычка на плате открытая запаиваемая
+K jumper
+$ENDCMP
+#
+#End Doc Library

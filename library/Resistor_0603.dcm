@@ -1,0 +1,179 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R
+D 0Ом ±1%, 100мВт 0603
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_0R-0R-1_C100044.html
+$ENDCMP
+#
+$CMP 1.5k
+D 1,5кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_1-5KR-1501-1_C114668.html
+$ENDCMP
+#
+$CMP 100R
+D 100Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100R-1000-1_C105588.html
+$ENDCMP
+#
+$CMP 100k
+D 100кОм ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 10R
+D 10Ом ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 10k
+D 10кОм ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 12.1k
+D 12.1кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Others_YAGEO-AC0603FR-0712K1L_C227571.html
+$ENDCMP
+#
+$CMP 120R
+D 120Ом ±5%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 124k
+D 124кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/_RC0603FR-07124KL_C137800.html
+$ENDCMP
+#
+$CMP 180R
+D 180Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/_RC0603FR-07180RL_C137786.html
+$ENDCMP
+#
+$CMP 1M
+D 1МОм ±1%, 75В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 1k
+D 1кОм ±1%, 50В, 100мВт 0603
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_1KR-1001-1_C22548.html
+$ENDCMP
+#
+$CMP 2.2k
+D 2,2кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_2-2KR-2201-1_C114662.html
+$ENDCMP
+#
+$CMP 200R
+D 200Ом ±5%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_200R-200R-5_C114686.html
+$ENDCMP
+#
+$CMP 220R
+D 220Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_220R-220R-1_C107696.html
+$ENDCMP
+#
+$CMP 22R
+D 22Ом ±5%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 330R
+D 330Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_330R-330R-1_C105881.html
+$ENDCMP
+#
+$CMP 33R
+D 33Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_33R-33R-1_C108661.html
+$ENDCMP
+#
+$CMP 390R
+D 390Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_390R-390R-1_C114620.html
+$ENDCMP
+#
+$CMP 3k
+D 3кОм ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 4.7k
+D 4.7кОм ±1%, 50В, 100мВт 0603
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_4-7KR-472-1_C99782.html
+$ENDCMP
+#
+$CMP 470R
+D 56кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/_AC0603JR-07470RL_C144600.html
+$ENDCMP
+#
+$CMP 47k
+D 47кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_47KR-4702-1_C105579.html
+$ENDCMP
+#
+$CMP 49.9R
+D 49.9Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_49-9R-49R9-1_C114625.html
+$ENDCMP
+#
+$CMP 5.6k
+D 5,6кОм ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 510k
+D 510кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_510KR-514-5_C115425.html
+$ENDCMP
+#
+$CMP 51R
+D 10Ом ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+$CMP 51k
+D 51кОм ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_51KR-5102-1_C107231.html
+$ENDCMP
+#
+$CMP 560R
+D 560Ом ±1%, 50В, 100мВт
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_560R-560R-1_C114629.html
+$ENDCMP
+#
+$CMP 56k
+D 56кОм ±1%, 50В, 100мВт
+K resistor
+F AC0603FR-0756KL
+$ENDCMP
+#
+$CMP 6.8k
+D 6.8кОм ±1%, 50В, 100мВт
+K resistor
+$ENDCMP
+#
+#End Doc Library

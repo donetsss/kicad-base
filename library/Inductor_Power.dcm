@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 33uH
+D 33 мкГн 3А
+K inductor
+F https://www.bourns.com/pdfs/SRR1260.pdf
+$ENDCMP
+#
+$CMP 50nH
+D 50нГн намотка проводом 32awg, внутренний диаметр 1мм
+K inductor
+$ENDCMP
+#
+$CMP SMNR4018-150MT
+D Индуктивность 15мкГн 940мА ±20% 4.0*4.0*2.0мм
+K inductor
+F https://lcsc.com/product-detail/Power-Inductors_ShunXiang-Connaught-Elec-SMNR4018-150MT_C135254.html
+$ENDCMP
+#
+#End Doc Library

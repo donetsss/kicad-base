@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBA-15L
+D Смеситель 1200-2400МГц +4дБм LO
+K mixer
+F https://www.minicircuits.com/pdfs/MBA-15L.pdf
+$ENDCMP
+#
+#End Doc Library

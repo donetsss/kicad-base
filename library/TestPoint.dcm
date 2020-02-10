@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TestPoint
+D Тестовая точка измерения
+K test
+$ENDCMP
+#
+$CMP TestRing
+D Тестовое кольцо Keystone серии 5000
+K test
+F https://datasheet.lcsc.com/szlcsc/1810151515_Keystone-5001_C238122.pdf
+$ENDCMP
+#
+#End Doc Library

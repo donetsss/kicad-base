@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4060BPW
+D Binary counter/divider and oscillator
+K counter divider oscillator
+$ENDCMP
+#
+$CMP SN74AHC14PWR
+D 6x Shmitt Trigger Inverters
+K inverter
+F http://www.ti.com/lit/ds/symlink/sn74ahc14.pdf
+$ENDCMP
+#
+#End Doc Library

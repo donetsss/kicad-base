@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC3S400-5TQ144
+D ПЛИС Xilinx TQFP-144
+K fpga xilinx
+F https://www.xilinx.com/support/documentation/data_sheets/ds099.pdf
+$ENDCMP
+#
+#End Doc Library

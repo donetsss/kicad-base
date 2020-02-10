@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXLP34
+D Single Bit Uni-Directional Translator
+K translator unidirectional
+F http://www.mouser.com/ds/2/149/fxlp34-299100.pdf
+$ENDCMP
+#
+#End Doc Library

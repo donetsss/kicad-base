@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KEYSTONE_1024
+D Держатель батареи АА SMT
+K battery holder
+$ENDCMP
+#
+$CMP QJ1220-2SMT
+D Держатель батареи CR1220 SMT
+K battery holder
+F https://lcsc.com/product-detail/Battery-Holders-Clips-Contacts_CR1220-2-Battery-horizontal-base_C70381.html
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SYN510R
+D Приемник 300-450МГц AM OOK модуляции
+K rf
+F https://datasheet.lcsc.com/szlcsc/Synoxo-SYN510R_C125165.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W25Q32JVSSIQ
+D FLASH память 32Mb (4M x 8) SPI - Dual/Quad I/O
+K flash
+F https://lcsc.com/product-detail/FLASH_Winbond-Elec-W25Q32JVSSIQ_C82344.html
+$ENDCMP
+#
+#End Doc Library

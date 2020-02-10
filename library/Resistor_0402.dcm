@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100R
+D 100Ом ±1%, 1/16Вт 0402
+K resistor
+F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100R-100R-1_C106232.html
+$ENDCMP
+#
+$CMP 1k
+D RES 1K OHM 1/16W 1% 0402 SMD
+K 1k
+$ENDCMP
+#
+#End Doc Library
