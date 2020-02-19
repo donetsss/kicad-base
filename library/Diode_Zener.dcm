@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SMAZ5V1-13-F
-D Стабилитрон 5,1В, 5%, 1Вт
-K zener
-F https://lcsc.com/product-detail/Zener-Diodes_DIODES_SMAZ5V1-13-F_SMAZ5V1-13-F_C154748.html
-$ENDCMP
-#
-#End Doc Library
