@@ -65,4 +65,10 @@ K ldo
 F https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MIC29302WU_MIC29302WU_C11149.html
 $ENDCMP
 #
+$CMP TPS73701DRBR
+D Adjustable 5.5V 1.2V 1A VDFN-8 Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1809192321_Texas-Instruments-TPS73701DRBR_C129335.pdf
+$ENDCMP
+#
 #End Doc Library

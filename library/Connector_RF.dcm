@@ -1,26 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP CONSMA001
-D Разъем «мама» SMA прямой на плату 50Ом 12ГГц
-K sma
-F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
+$CMP Conn_RF_Female
+D Connector RF Female
+K sma rf connector
+F ~
 $ENDCMP
 #
-$CMP CONSMA002
-D Разъем «мама» SMA угловой на плату 50Ом 12ГГц
+$CMP Conn_RF_Male
+D Connector RF male
 K connector rf
-F https://ru.mouser.com/datasheet/2/238/consma002-471831.pdf
-$ENDCMP
-#
-$CMP SMA_J01151A1271_EdgeMount
-D SMA CON FEMALE EDGE MOUNT
-K sma edge
-F https://media.telegaertner.com/orig/J01151A1271KP.pdf
-$ENDCMP
-#
-$CMP U.FL-R-SMT-1
-D Разъем «папа» U.FL 50Ом 6ГГц
-K ufl connector rf
+F ~
 $ENDCMP
 #
 #End Doc Library

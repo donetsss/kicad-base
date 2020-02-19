@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_Schottky
+D Shottky Diode
+K diode shottky
+F ~
+$ENDCMP
+#
+$CMP D_TVS
+D Bidirectional transient-voltage-suppression diode
+K tvs diode
+F ~
+$ENDCMP
+#
+$CMP D_Zener
+D Zener diode
+K zener diode
+F ~
+$ENDCMP
+#
+$CMP SMF05CT1G
+D TVS Diodes 5 Line TVS Array
+K TVS diode
+F https://www.onsemi.com/pub/Collateral/SMF05C-D.PDF
+$ENDCMP
+#
+#End Doc Library

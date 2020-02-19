@@ -1,10 +1,10 @@
-(module TestPoint_Keystone_5003 (layer F.Cu) (tedit 5DD4EB2E)
+(module TestPoint_Keystone_5003 (layer F.Cu) (tedit 5E438E03)
   (descr "Orange color test point Keystone")
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value REF** (at 0 2.54) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.1)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 1.016 -1.016) (layer F.SilkS) (width 0.2))
   (fp_text user Orange (at 4.572 0) (layer Cmts.User) hide

@@ -1,41 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 49MD-13.52127-20-20_A
-D Кварц 13,52127МГц
-K crystal
-F https://lcsc.com/product-detail/49SMD_Suzhou-Liming-Elec-49MD-13-52127-20-20-A_C240955.html
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
 $ENDCMP
 #
-$CMP ABM3-8.000MHz-D2Y-T
-D Кварц 8МГц
-K crystal
-F https://lcsc.com/product-detail/SMD-Crystals_ABRACON_ABM3-8-000MHZ-D2Y-T_8MHZ-20ppm-400C-850C_C144380.html
-$ENDCMP
-#
-$CMP CFPT-9301
-D SMD осциллятор(TCXO) 1,5-52МГц 3.3В 4-SMD
-K oscillator
-F https://www.iqdfrequencyproducts.com/products/details/cfpt-9301-7-32.pdf
-$ENDCMP
-#
-$CMP CSA-16MHZ
-D Керамический резонатор 16 MHz
-$ENDCMP
-#
-$CMP HC49SMD
-D Кварц 16 MHz SMD
-$ENDCMP
-#
-$CMP OVETGLJTNF-50MHZ
-D SMD осциллятор(XO) 50МГц
-K oscillator
-F https://lcsc.com/product-detail/SMD-Oscillators-XO_50MHz-3-3V-50PPM-40-85_C117891.html
-$ENDCMP
-#
-$CMP SX20Y048000B31T-8.8
-D 48MHz ±10ppm 8.8pF 50Ω SMD-2016
-K crystal
-F https://lcsc.com/product-detail/SMD-Crystal-Resonators_TKD-SX20Y048000B31T-8-8_C271653.html
+$CMP Crystal_GND24
+D Four pin crystal, GND on pins 2 and 4
+K quartz ceramic resonator oscillator
+F ~
 $ENDCMP
 #
 #End Doc Library

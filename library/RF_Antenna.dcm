@@ -6,6 +6,16 @@ K 433 antenna
 F https://lcsc.com/product-detail/Others_Rainsun-microwave-Tech-AN1603-433_C122806.html
 $ENDCMP
 #
+$CMP Antenna
+D Antenna
+K antenna
+$ENDCMP
+#
+$CMP Antenna_shield
+D Antenna with shield pin 2
+K antenna
+$ENDCMP
+#
 $CMP INVERTED_F
 D Inverted F Antenna 2.4 GHz
 K 2.4Ghz

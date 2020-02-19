@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VS838
+D IR sensor-demodulator
+K ir sensor
+F ~
+$ENDCMP
+#
+#End Doc Library

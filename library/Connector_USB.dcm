@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MOLEX_47346-0001
-D Micro USB connector SMD
-K usb, connector
-F https://lcsc.com/product-detail/USB-Connectors_MOLEX_47346-0001_47346-0001_C132560.html
+$CMP USB_A_2Ports
+D USB - Type A Receptacle USB 2 8 Through Hole
+K connector usb
+F ~
 $ENDCMP
 #
 #End Doc Library
