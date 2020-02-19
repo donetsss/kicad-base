@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 148-10J12L
-D Tunable RF Inductors – 148 Series
-K inductor, 375nH
-F https://eu.mouser.com/datasheet/2/597/148-463441.pdf
-$ENDCMP
-#
-#End Doc Library
