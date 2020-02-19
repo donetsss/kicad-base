@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 22R
-D 22Ом ±5%, 50В, 100мВт 0805
-K resistor
-F https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_22R-22R0-1_C107702.html
-$ENDCMP
-#
-#End Doc Library
