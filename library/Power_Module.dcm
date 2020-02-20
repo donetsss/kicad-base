@@ -6,4 +6,10 @@ K acdc преобразователь
 F https://img.filipeflop.com/files/download/Datasheet-HLK-PM01.pdf
 $ENDCMP
 #
+$CMP NSD05-12S5
+D Isolated DC/DC Converters 5W 12VIN 5VOUT
+K dcdc meanwell
+F https://www.meanwell.com/productPdf.aspx?i=111#1
+$ENDCMP
+#
 #End Doc Library
