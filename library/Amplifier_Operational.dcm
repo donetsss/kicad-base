@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADA4940-1ARZ
+D Differential Amplifiers Sub 10M W ADC Driver for PULSAR Family
+K differential amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ada4940-1_4940-2.pdf
+$ENDCMP
+#
 $CMP DS90LT012A
 D LVDS to CMOS
 K lvds
