@@ -11,6 +11,11 @@ K ldo
 F https://static.chipdip.ru/lib/142/DOC000142741.pdf
 $ENDCMP
 #
+$CMP LM317T
+D Voltage Regulator Adjustable 1.25V to 37V 1.5A
+F https://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
 $CMP LT1761ES5-3.3
 D Регулятор напряжения 3,3В 100мА TSOT-23-5
 K ldo
@@ -65,10 +70,28 @@ K ldo
 F https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MIC29302WU_MIC29302WU_C11149.html
 $ENDCMP
 #
+$CMP TPS72325QDBVRQ1
+D LDO Voltage Regulators -2.5V 200mA
+K ldo
+F http://www.ti.com/lit/ds/symlink/tps723-q1.pdf
+$ENDCMP
+#
 $CMP TPS73701DRBR
 D Adjustable 5.5V 1.2V 1A VDFN-8 Low Dropout Regulators(LDO)
 K ldo
 F https://datasheet.lcsc.com/szlcsc/1809192321_Texas-Instruments-TPS73701DRBR_C129335.pdf
+$ENDCMP
+#
+$CMP TPS76325DBVR
+D LDO Voltage Regulators 2.5V 150mA
+K ldo
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS76333DBVR
+D LDO Voltage Regulators 3.3V 150mA
+K ldo
+F http://www.ti.com/lit/ds/symlink/tps763.pdf
 $ENDCMP
 #
 #End Doc Library
