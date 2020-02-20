@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD7641BSTZ
+D ADC 18-BIT 2MSPS
+K adc
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD7641.pdf
+$ENDCMP
+#
 $CMP AD9200ARSZ
 D ADC 10B 20MSPS 80mW CMOS
 K ADC
