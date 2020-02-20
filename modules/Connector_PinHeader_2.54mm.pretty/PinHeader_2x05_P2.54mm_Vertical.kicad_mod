@@ -1,10 +1,10 @@
-(module PinHeader_2x05_P2.54mm_Vertical (layer F.Cu) (tedit 5E425A80)
+(module PinHeader_2x05_P2.54mm_Vertical (layer F.Cu) (tedit 5E4E1EF8)
   (descr "Through hole straight pin header, 2x05, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x05 2.54mm double row")
   (fp_text reference REF** (at 1.27 -2.33) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value PinHeader_2x05_P2.54mm_Vertical (at 1.27 12.49) (layer F.Fab)
+  (fp_text value PinHeader_2x05_P2.54mm_Vertical (at 1.27 12.49) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 -1.27) (end 3.81 -1.27) (layer F.Fab) (width 0.1))
@@ -37,7 +37,7 @@
   (pad 8 thru_hole oval (at 2.54 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 0 10.16) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 2.54 10.16) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KICAD_BASE}/step/Connector_Header.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step
+  (model ${KICAD_BASE}/step/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

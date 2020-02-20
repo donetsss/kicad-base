@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_02x05_Male
+D Connector pin header 2x5 pin PLD-10
+K connector header pin
+$ENDCMP
+#
+#End Doc Library
