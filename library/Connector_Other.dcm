@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TC2050
-D Разъем для программирования TC2050
-K tag connect
-$ENDCMP
-#
-#End Doc Library
