@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AC161
+D Counter IC Binary Counter 1 Element 4 Bit Positive Edge
+K binary counter
+F https://ecee.colorado.edu/~mathys/ecen1400/pdf/references/74AC161.pdf
+$ENDCMP
+#
+$CMP 74HC04
+D Inverter IC 6 Channel
+K inverter
+F https://static.chipdip.ru/lib/253/DOC000253877.pdf
+$ENDCMP
+#
 $CMP CD4060BPW
 D Binary counter/divider and oscillator
 K counter divider oscillator

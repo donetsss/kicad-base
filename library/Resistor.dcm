@@ -6,4 +6,10 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP R_POT
+D Variable resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 #End Doc Library
