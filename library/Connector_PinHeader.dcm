@@ -5,4 +5,9 @@ D Connector pin header 2x5 pin PLD-10
 K connector header pin
 $ENDCMP
 #
+$CMP Conn_02x08_Male
+D Connector pin header 2x8 pin PLD-16
+K connector header pin
+$ENDCMP
+#
 #End Doc Library

@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AOCJYA-40MHz
+D OCXO Oscillators 40.000MHz 5Volts 0C + 50C CMOS
+K ocxo crystal ocsillator
+F https://ru.mouser.com/datasheet/2/3/AOCJY-47496.pdf
+$ENDCMP
+#
+$CMP AOCJYA-40MHz-SW
+D OCXO Oscillators 40.000MHz 5Volts 0C + 50C Sine Wave
+K ocxo crystal ocsillator
+F https://ru.mouser.com/datasheet/2/3/AOCJY-47496.pdf
+$ENDCMP
+#
 $CMP Crystal
 D Two pin crystal
 K quartz ceramic resonator oscillator

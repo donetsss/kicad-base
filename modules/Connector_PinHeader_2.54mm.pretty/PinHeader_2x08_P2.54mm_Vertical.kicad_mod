@@ -1,4 +1,4 @@
-(module PinHeader_2x08_P2.54mm_Vertical (layer F.Cu) (tedit 5E425A7B)
+(module PinHeader_2x08_P2.54mm_Vertical (layer F.Cu) (tedit 5E535558)
   (descr "Through hole straight pin header, 2x08, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x08 2.54mm double row")
   (fp_text reference REF** (at 1.27 -2.33) (layer F.SilkS)
@@ -43,7 +43,7 @@
   (pad 14 thru_hole oval (at 2.54 15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 0 17.78) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 2.54 17.78) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KICAD_BASE}/step/Connector_Header.3dshapes/PinHeader_2x08_P2.54mm_Vertical.step
+  (model ${KICAD_BASE}/step/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
