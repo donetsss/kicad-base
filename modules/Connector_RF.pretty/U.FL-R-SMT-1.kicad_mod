@@ -1,5 +1,5 @@
-(module U.FL-R-SMT-1 (layer F.Cu) (tedit 5E438770)
-  (descr "Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/")
+(module U.FL-R-SMT-1 (layer F.Cu) (tedit 5E577A8C)
+  (descr "Hirose U.FL Coaxial")
   (tags "Hirose U.FL Coaxial")
   (attr smd)
   (fp_text reference REF** (at 0.475 -3.2) (layer F.SilkS)

@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Castellated_Hole_02x10
+K castellated
+$ENDCMP
+#
+$CMP Castellated_Hole_02x14
+K castellated
+$ENDCMP
+#
 $CMP THP-4MR
 D Conn Angled 4 pin 5.08mm Male
 K conn
