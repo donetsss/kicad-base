@@ -4,6 +4,10 @@ $CMP KF15EDG-3.5_2P
 D Клеммный разъем на плату угловой, шаг 3,5мм
 $ENDCMP
 #
+$CMP TerminalBlock_2
+K terminal
+$ENDCMP
+#
 $CMP WJ500V-5.08-2P-14-00A
 D Разъем на плату под отвертку 2 вывода, шаг 5,08мм
 K terminal block
