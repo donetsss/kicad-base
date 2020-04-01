@@ -14,4 +14,8 @@ K conn
 F https://static.chipdip.ru/lib/975/DOC002975477.pdf
 $ENDCMP
 #
+$CMP WF-2
+K conn
+$ENDCMP
+#
 #End Doc Library
