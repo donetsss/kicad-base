@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9959BCPZ
+D 500MHz 10-Bit Quad DDS
+K dds
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9959.pdf
+$ENDCMP
+#
+#End Doc Library
