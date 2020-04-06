@@ -5,6 +5,18 @@ D 3,3В 1А
 K ldo
 $ENDCMP
 #
+$CMP LM1117DTX-1.8
+D Fixed 1.8V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
+$ENDCMP
+#
+$CMP LM1117IDTX-3.3
+D Fixed 3.3V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
+$ENDCMP
+#
 $CMP LM2940IMP-5.0
 D Регулятор напряжения 5В 1А SOT-223
 K ldo
@@ -92,6 +104,12 @@ $CMP TPS76333DBVR
 D LDO Voltage Regulators 3.3V 150mA
 K ldo
 F http://www.ti.com/lit/ds/symlink/tps763.pdf
+$ENDCMP
+#
+$CMP TPS7A4700RGWR
+D Adjustable 35V 1.4V 1A VQFN-20 Low Dropout Regulators(LDO)
+K ldo tps
+F https://www.ti.com/lit/ds/symlink/tps7a47.pdf
 $ENDCMP
 #
 #End Doc Library
