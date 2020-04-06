@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADM485EARZ
+D RS-485 Interface IC 5V Powered, 2.5Mbps
+K rs485
+F https://datasheet.lcsc.com/szlcsc/1809171713_Analog-Devices-ADM485EARZ-REEL7_C156228.pdf
+$ENDCMP
+#
 $CMP CP2102-GMR
 D USB UART Transceiver
 K usb
