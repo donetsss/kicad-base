@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM706SARZ
+D Microprocessor & Microcontroller Supervisors SOIC-8_150mil 
+K mcu supervisor
+F https://datasheet.lcsc.com/szlcsc/1809291619_Analog-Devices-ADM706SARZ-REEL_C70445.pdf
+$ENDCMP
+#
+#End Doc Library
