@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MF-MSMF050-2
-D PTC Resettable Fuses 15V 100A 1812
-K fuse
-F https://lcsc.com/product-detail/Surface-Mount-Fuses_BOURNS_MF-MSMF050-2_0-5A-15V-Self-healing-fuse_C17313.html
-$ENDCMP
-#
-#End Doc Library
