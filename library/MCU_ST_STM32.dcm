@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM32F103C8T6
+D 32-Bit FLASH ARM Cortex-M3 72MHz 2V ~ 3.6V LQFP-48_7x7x05P
+K STM32
+$ENDCMP
+#
 $CMP STM32F407VGT6
 D Микроконтроллер 32 бита, 1 Мб FLASH 192 кБ RAM
 K stm32
