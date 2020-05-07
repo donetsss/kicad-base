@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADTT1-1
+D RF Transformer 0.3-300 MHz 1:1
+K transformer
+F https://www.minicircuits.com/pdfs/ADTT1-1.pdf
+$ENDCMP
+#
 $CMP ETC1-1T-2TR
 D .1-200MHz IL 1.5dB Impedance Ratio 1:1
 K rf transformer
