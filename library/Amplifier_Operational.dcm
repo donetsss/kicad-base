@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8307ARZ-RL7
+D DC to 500 MHz, 92 dB Logarithmic Amplifier
+K amplifier
+$ENDCMP
+#
 $CMP ADA4940-1ARZ
 D Differential Amplifiers Sub 10M W ADC Driver for PULSAR Family
 K differential amplifier
