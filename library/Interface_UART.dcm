@@ -18,6 +18,10 @@ K rs485 max485
 F https://ru.mouser.com/datasheet/2/256/MAX3483-MAX3491-1292143.pdf
 $ENDCMP
 #
+$CMP MAX485
+K max485
+$ENDCMP
+#
 $CMP TP75176E-FR
 D RS485 трансивер 10Mbps 3V ~ 5.5V
 K rs485
