@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HMC221B
+D RF Switch ICs SPDT Reflective Switch SMT, DC - 3 GHz
+K rf switch 
+$ENDCMP
+#
 $CMP SKY13317-373LF
 D RF Switch ICs 20MHz-6GHz SP3T GaAs
 K rf switch
