@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_DIN_02x32_Male
+D 612B-64M Разъем DIN 41612 64 контакта, вилка, прямой угол, 2 ряда
+K DIN
+$ENDCMP
+#
+#End Doc Library
