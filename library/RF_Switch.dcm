@@ -3,6 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP HMC221B
 D RF Switch ICs SPDT Reflective Switch SMT, DC - 3 GHz
 K rf switch 
+F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc221b.pdf
 $ENDCMP
 #
 $CMP SKY13317-373LF
