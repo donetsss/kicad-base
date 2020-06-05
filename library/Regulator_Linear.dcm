@@ -17,6 +17,12 @@ K ldo
 F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
 $ENDCMP
 #
+$CMP LM1117IDTX-3.3_copy
+D Fixed 3.3V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
+$ENDCMP
+#
 $CMP LM2940IMP-5.0
 D Регулятор напряжения 5В 1А SOT-223
 K ldo
@@ -26,6 +32,11 @@ $ENDCMP
 $CMP LM317T
 D Voltage Regulator Adjustable 1.25V to 37V 1.5A
 F https://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+$CMP LM7805CT
+D Fixed 5V 1A TO-220
+K 7805
 $ENDCMP
 #
 $CMP LT1761ES5-3.3

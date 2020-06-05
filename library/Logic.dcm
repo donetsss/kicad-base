@@ -6,10 +6,20 @@ K binary counter
 F https://ecee.colorado.edu/~mathys/ecen1400/pdf/references/74AC161.pdf
 $ENDCMP
 #
+$CMP 74ALS123
+D Monostable Multi-vibrator
+F https://www.microshemca.ru/AG3/
+$ENDCMP
+#
 $CMP 74HC04
 D Inverter IC 6 Channel
 K inverter
 F https://static.chipdip.ru/lib/253/DOC000253877.pdf
+$ENDCMP
+#
+$CMP 74HC123D
+D Monostable Multi-vibrator
+F https://ru.mouser.com/datasheet/2/916/74HC_HCT123_Q100-1319846.pdf
 $ENDCMP
 #
 $CMP CD4060BPW
@@ -21,6 +31,11 @@ $CMP SN74AHC14PWR
 D 6x Shmitt Trigger Inverters
 K inverter
 F http://www.ti.com/lit/ds/symlink/sn74ahc14.pdf
+$ENDCMP
+#
+$CMP SN74HC373N
+D D-Type Transparent Latch 1 Channel 8:8 IC Tri-State 20-PDIP
+K trigger
 $ENDCMP
 #
 #End Doc Library
