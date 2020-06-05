@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATTINY2313-20PU
+D MCU 2kB Flash 0.128kB EEPROM 18 I/O Pins
+K tiny avr
+$ENDCMP
+#
+#End Doc Library
