@@ -38,4 +38,9 @@ D D-Type Transparent Latch 1 Channel 8:8 IC Tri-State 20-PDIP
 K trigger
 $ENDCMP
 #
+$CMP К155ТЛ1
+D Dual 4-input positive-nand schmitt trigger
+K trigger
+$ENDCMP
+#
 #End Doc Library

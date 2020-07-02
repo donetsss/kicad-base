@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADP-2-1W
+D 2 Ways Core & Wire Power Splitter, 1 - 650 MHz, 50Ω
+K rf splitter
+F https://www.minicircuits.com/pdfs/ADP-2-1W.pdf
+$ENDCMP
+#
 $CMP ADTT1-1
 D RF Transformer 0.3-300 MHz 1:1
 K transformer

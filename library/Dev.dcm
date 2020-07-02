@@ -29,4 +29,22 @@ K transistor NPN
 F ~
 $ENDCMP
 #
+$CMP Q_NPN_ECB
+D NPN transistor
+K transistor NPN
+F ~
+$ENDCMP
+#
+$CMP Q_PNP_CBE
+D PNP transistor, collector/base/emitter
+K transistor PNP
+F ~
+$ENDCMP
+#
+$CMP SPARK_GAP
+D Spark gap
+K spark gap ESD electrostatic suppression
+F ~
+$ENDCMP
+#
 #End Doc Library

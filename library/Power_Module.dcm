@@ -6,6 +6,12 @@ K acdc преобразователь
 F https://img.filipeflop.com/files/download/Datasheet-HLK-PM01.pdf
 $ENDCMP
 #
+$CMP LRS-75-12
+D 75W Single Output Switching Power Supply
+K acdc meanwell
+F http://www.mean-well.ru/uploads/files/datasheets/LRS-75-12.pdf
+$ENDCMP
+#
 $CMP NSD05-12S5
 D Isolated DC/DC Converters 5W 12VIN 5VOUT
 K dcdc meanwell

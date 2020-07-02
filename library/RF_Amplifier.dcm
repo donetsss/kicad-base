@@ -18,4 +18,10 @@ K lna, rf
 F https://www.mouser.com/ds/2/678/V02-2514EN-DS-MGA-86563-27Oct20100-909324.pdf
 $ENDCMP
 #
+$CMP SPF5189Z
+D RF Amplifier .05-4GHz SSG 12.8dB NF .8dB GaAs
+K rf
+F RF Amplifier .05-4GHz SSG 12.8dB NF .8dB GaAs
+$ENDCMP
+#
 #End Doc Library
