@@ -6,4 +6,10 @@ K connector usb
 F ~
 $ENDCMP
 #
+$CMP USB_B_Micro
+D USB Type B Micro
+K connector usb
+F ~
+$ENDCMP
+#
 #End Doc Library
