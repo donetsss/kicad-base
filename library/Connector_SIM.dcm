@@ -12,9 +12,9 @@ K sim
 F https://lcsc.com/product-detail/Connector-Card-Sockets_Korean-Hroparts-Elec-SIM-08A_C106816.html
 $ENDCMP
 #
-$CMP SNO-1305-B
-D Nano SIM держатель карты
-K sim
+$CMP SIM_Nano
+D Nano SIM holder
+K sim holder
 F https://datasheet.lcsc.com/szlcsc/SOFNG-SIM-1305-6P_C111371.pdf
 $ENDCMP
 #

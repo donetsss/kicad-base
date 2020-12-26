@@ -18,6 +18,12 @@ K tvs diode
 F ~
 $ENDCMP
 #
+$CMP D_TVS_UNI
+D Unidirectional transient-voltage-suppression diode
+K tvs diode
+F ~
+$ENDCMP
+#
 $CMP D_Zener
 D Zener diode
 K zener diode
@@ -28,6 +34,12 @@ $CMP SMF05CT1G
 D TVS Diodes 5 Line TVS Array
 K TVS diode
 F https://www.onsemi.com/pub/Collateral/SMF05C-D.PDF
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Very low capacitance ESD protection for USB application
+K TVS ESD
+F https://datasheet.lcsc.com/szlcsc/1811141711_STMicroelectronics-USBLC6-2SC6_C7519.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -13,8 +13,8 @@
   (fp_line (start 6.5 -1.75) (end 6.5 8.25) (layer F.CrtYd) (width 0.1))
   (fp_line (start 6.5 8.25) (end -3 8.25) (layer F.CrtYd) (width 0.1))
   (fp_line (start -3 8.25) (end -3 -1.75) (layer F.CrtYd) (width 0.1))
-  (pad 1 thru_hole rect (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.5 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KICAD_BASE}/step/Connector_TerminalBlock.3dshapes/15EDGRC-3_5-2.step
     (offset (xyz -2.2 1.2 0.1))
     (scale (xyz 1 1 1))

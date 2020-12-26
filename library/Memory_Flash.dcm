@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP W25Q16FWUXIE
+D FLASH память 16Mb (2M x 8) SPI - Dual/Quad I/O 1.8V
+K flash
+F https://datasheet.lcsc.com/szlcsc/1912271510_Winbond-Elec-W25Q16FWUXIE_C401672.pdf
+$ENDCMP
+#
 $CMP W25Q32JVSSIQ
 D FLASH память 32Mb (4M x 8) SPI - Dual/Quad I/O
 K flash

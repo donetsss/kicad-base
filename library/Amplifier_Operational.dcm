@@ -34,4 +34,9 @@ K amplifier
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1677fa.pdf
 $ENDCMP
 #
+$CMP OPA333AIDBVR
+D Zero-Drift 1 1.8V ~ 5.5V, ±0.9V ~ 2.75V 350kHz 0.16 V/us SOT-23-5 Precision OpAmps
+F https://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
 #End Doc Library

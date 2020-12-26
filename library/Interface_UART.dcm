@@ -12,6 +12,10 @@ K usb
 F https://lcsc.com/product-detail/USB_SILICON-LABS_CP2102-GMR_CP2102-GMR_C6568.html
 $ENDCMP
 #
+$CMP ISO3088DWR
+D Transceiver RS422, RS485 1/1 20Mbps SOIC-16_300mil
+$ENDCMP
+#
 $CMP MAX3485CSA
 D RS-485 Interface IC 3.3V Powered, 10Mbps
 K rs485 max485

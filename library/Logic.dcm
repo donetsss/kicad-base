@@ -22,6 +22,17 @@ D Monostable Multi-vibrator
 F https://ru.mouser.com/datasheet/2/916/74HC_HCT123_Q100-1319846.pdf
 $ENDCMP
 #
+$CMP 74HC595
+D SNx4HC5958-Bit Shift RegistersWith 3-StateOutputRegisters
+K shift
+F https://datasheet.lcsc.com/szlcsc/1912111437_Texas-Instruments-SN74HC595PWR_C273642.pdf
+$ENDCMP
+#
+$CMP 74HCT125
+D Quad buffer/line driver; 3-state
+F https://datasheet.lcsc.com/szlcsc/1809010907_Nexperia-74HCT125PW-118_C131316.pdf
+$ENDCMP
+#
 $CMP CD4060BPW
 D Binary counter/divider and oscillator
 K counter divider oscillator

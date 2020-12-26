@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9539PWR
+D 16 I²C, SMBus POR 400kHz TSSOP-24 Interface - I/O Expanders
+F https://datasheet.lcsc.com/szlcsc/1809192236_Texas-Instruments-TCA9539PWR_C131972.pdf
+$ENDCMP
+#
+$CMP TCA9539RTWR
+D 16 I²C, SMBus POR 400kHz WQFN-24 Interface - I/O Expanders
+F https://datasheet.lcsc.com/szlcsc/1804242110_Texas-Instruments-TCA9539RTWR_C134039.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -35,4 +35,9 @@ K joystick
 F https://cdn-shop.adafruit.com/datasheets/SKQUCAA010-ALPS.pdf
 $ENDCMP
 #
+$CMP SW_DIP_02
+D 2x DIP Switch SPST
+K button switch
+$ENDCMP
+#
 #End Doc Library

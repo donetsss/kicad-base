@@ -6,4 +6,10 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
+$CMP L_LINE
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
 #End Doc Library

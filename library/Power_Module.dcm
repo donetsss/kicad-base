@@ -12,6 +12,17 @@ K acdc meanwell
 F http://www.mean-well.ru/uploads/files/datasheets/LRS-75-12.pdf
 $ENDCMP
 #
+$CMP MORNSUN_B0505M-2WR2
+D 5.5V 5V 400mA SIP4(11.60*7.55*10.16)
+K isolated dcdc
+$ENDCMP
+#
+$CMP MORNSUN_B0505S-1WR2
+D 5.5V 5V 200mA SIP
+K isolated dcdc
+F https://static.chipdip.ru/lib/480/DOC001480972.pdf
+$ENDCMP
+#
 $CMP NSD05-12S5
 D Isolated DC/DC Converters 5W 12VIN 5VOUT
 K dcdc meanwell

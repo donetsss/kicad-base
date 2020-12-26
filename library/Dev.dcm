@@ -11,16 +11,27 @@ K fuse
 F ~
 $ENDCMP
 #
+$CMP FERRITE_BEAD
+D Ferrite bead
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
 $CMP LED
 D LED
 K led
 F ~
 $ENDCMP
 #
-$CMP Microphone
+$CMP MICROPHONE
 D Microphone
 K microphone
 F ~
+$ENDCMP
+#
+$CMP Q_NMOS_GSD
+D N-CH MOSFET
+K mosfet
 $ENDCMP
 #
 $CMP Q_NPN_BEC
@@ -33,6 +44,16 @@ $CMP Q_NPN_ECB
 D NPN transistor
 K transistor NPN
 F ~
+$ENDCMP
+#
+$CMP Q_PMOS_GDS
+D P-CH MOSFET
+K mosfet
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D P-CH MOSFET
+K mosfet
 $ENDCMP
 #
 $CMP Q_PNP_CBE

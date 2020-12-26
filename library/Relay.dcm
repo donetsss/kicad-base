@@ -5,4 +5,9 @@ D Сигнальное реле 3VDC
 K relay реле
 $ENDCMP
 #
+$CMP Solid_State_Relay_4Pin
+D Solid State Relay
+K solid state relay
+$ENDCMP
+#
 #End Doc Library

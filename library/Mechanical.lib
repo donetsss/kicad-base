@@ -72,7 +72,7 @@ F1 "MountingHole_Pad" 0 175 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- Mounting_Hole*Pad*
+ Mounting_Hole*
 $ENDFPLIST
 DRAW
 C 0 50 50 0 1 50 N

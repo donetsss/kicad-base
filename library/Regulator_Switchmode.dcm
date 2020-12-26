@@ -6,6 +6,12 @@ K step-down
 F http://www.ti.com/lit/ds/symlink/lm2596.pdf
 $ENDCMP
 #
+$CMP TPS5450DDAR
+D 36V 5A SOP-8_EP_150mil DC-DC Converters
+K dcdc
+F https://datasheet.lcsc.com/szlcsc/1809200042_Texas-Instruments-TPS5450DDAR_C114425.pdf
+$ENDCMP
+#
 $CMP TPS60400DBVR
 D 60мА инвертор напряжения
 K invertor

@@ -5,6 +5,18 @@ D 3,3В 1А
 K ldo
 $ENDCMP
 #
+$CMP HT73XX
+D Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
+$ENDCMP
+#
+$CMP LM1117DT-5.0
+D Fixed 5.0V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
+$ENDCMP
+#
 $CMP LM1117DTX-1.8
 D Fixed 1.8V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
 K ldo
@@ -12,12 +24,6 @@ F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-N
 $ENDCMP
 #
 $CMP LM1117IDTX-3.3
-D Fixed 3.3V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
-K ldo
-F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
-$ENDCMP
-#
-$CMP LM1117IDTX-3.3_copy
 D Fixed 3.3V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
 K ldo
 F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
@@ -32,11 +38,6 @@ $ENDCMP
 $CMP LM317T
 D Voltage Regulator Adjustable 1.25V to 37V 1.5A
 F https://www.ti.com/lit/ds/symlink/lm317.pdf
-$ENDCMP
-#
-$CMP LM7805CT
-D Fixed 5V 1A TO-220
-K 7805
 $ENDCMP
 #
 $CMP LT1761ES5-3.3
@@ -91,6 +92,12 @@ $CMP MIC29302WU
 D Регулируемый источник питания 3A
 K ldo
 F https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_MICROCHIP_MIC29302WU_MIC29302WU_C11149.html
+$ENDCMP
+#
+$CMP RT9193-33GB
+D LDO Voltage Regulators 3.3V 300mA
+K ldo
+F https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9193-33GB_C15651.pdf
 $ENDCMP
 #
 $CMP TPS72325QDBVRQ1

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIM7600X
+D Simcom LTE Cat.4 module
+K gsm
+$ENDCMP
+#
+#End Doc Library
