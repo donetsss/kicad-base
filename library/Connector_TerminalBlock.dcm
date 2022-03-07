@@ -4,6 +4,11 @@ $CMP KF15EDG-3.5_2P
 D Клеммный разъем на плату угловой, шаг 3,5мм
 $ENDCMP
 #
+$CMP Ningbo_WJ2EDGRC-5.08-12P
+D Съемная системная клеммная колодка P=5.08mm 12P
+F https://datasheet.lcsc.com/szlcsc/1912251711_Ningbo-Kangnex-Elec-WJ2EDGRC-5-08-12P_C127848.pdf
+$ENDCMP
+#
 $CMP Ningbo_WJ2EDGRC-5.08-18P
 D Съемная системная клеммная колодка P=5.08mm 18P
 F https://datasheet.lcsc.com/szlcsc/2002271936_Ningbo-Kangnex-Elec-WJ2EDGRC-5-08-18P_C489929.pdf
@@ -25,6 +30,10 @@ K terminal
 $ENDCMP
 #
 $CMP TerminalBlock_3
+K terminal
+$ENDCMP
+#
+$CMP TerminalBlock_4
 K terminal
 $ENDCMP
 #

@@ -68,4 +68,10 @@ K spark gap ESD electrostatic suppression
 F ~
 $ENDCMP
 #
+$CMP VARISTOR
+D Voltage dependent resistor
+K VDR resistance
+F ~
+$ENDCMP
+#
 #End Doc Library

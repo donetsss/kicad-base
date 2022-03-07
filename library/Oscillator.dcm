@@ -24,4 +24,8 @@ K quartz ceramic resonator oscillator
 F ~
 $ENDCMP
 #
+$CMP XO
+K crystal
+$ENDCMP
+#
 #End Doc Library

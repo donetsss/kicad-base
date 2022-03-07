@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Conn_02x02_Male
+D Connector pin header 2x2 pin PLD-4
+K connector header pin
+$ENDCMP
+#
 $CMP Conn_02x05_Male
 D Connector pin header 2x5 pin PLD-10
 K connector header pin

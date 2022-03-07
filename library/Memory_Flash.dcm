@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MT29F4G08ABADAWP
+D Non-Volatile FLASH 4Gb (512M x 8) Parallel TSOP-48 FLASH
+K nand flash
+F https://datasheet.lcsc.com/szlcsc/1809192142_Micron-Tech-MT29F4G08ABADAWP-D_C78135.pdf
+$ENDCMP
+#
 $CMP W25Q16FWUXIE
 D FLASH память 16Mb (2M x 8) SPI - Dual/Quad I/O 1.8V
 K flash

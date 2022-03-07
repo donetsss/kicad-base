@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HLK-20M05
+D AC-DC преобразователь 5В 4000мА
+K acdc преобразователь
+F https://datasheet.lcsc.com/szlcsc/1912111437_HI-LINK-HLK-20M05_C465406.pdf
+$ENDCMP
+#
+$CMP HLK-5M05
+D AC-DC преобразователь 5В 1000мА
+K acdc
+F https://datasheet.lcsc.com/szlcsc/1912111437_HI-LINK-HLK-5M05_C209907.pdf
+$ENDCMP
+#
 $CMP HLK-PM01
 D AC-DC преобразователь 5В 600мА
 K acdc преобразователь

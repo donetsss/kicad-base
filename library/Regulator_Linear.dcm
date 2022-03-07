@@ -11,6 +11,12 @@ K ldo
 F https://datasheet.lcsc.com/szlcsc/1804240210_Texas-Instruments-LM1117DTX-1-8-NOPB_C38160.pdf
 $ENDCMP
 #
+$CMP LD39150DT33-R
+D Fixed 6V 3.3V 400mV @ 1.5A TO-252-2(DPAK) Dropout Regulators(LDO)
+K ldo
+F https://datasheet.lcsc.com/szlcsc/1804140055_STMicroelectronics-LD39150DT33-R_C155559.pdf
+$ENDCMP
+#
 $CMP LM1117DT-5.0
 D Fixed 5.0V 800mA TO-252-2(DPAK) Low Dropout Regulators(LDO)
 K ldo

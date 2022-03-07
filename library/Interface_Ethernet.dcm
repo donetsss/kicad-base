@@ -1,9 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DP83848IVVX
+D Ethernet Transceivers 10BASE-T, 100BASE-T MII, RMII, SNI 3V ~ 3.6V LQFP-48_7x7x05P
+K ethernet
+F https://datasheet.lcsc.com/szlcsc/1810271110_Texas-Instruments-DP83848IVVX-NOPB_C12082.pdf
+$ENDCMP
+#
 $CMP LAN8720A-CP-TR
 D RMII Ethernet трансивер IEEE 802.3, 10/100 Base-T/TX PHY
 K ethernet
 F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-LAN8720A-CP-TR_C45223.pdf
+$ENDCMP
+#
+$CMP LAN8742AI-CZ-TR
+D RMII Ethernet трансивер IEEE 802.3, 10/100 Base-T/TX PHY
+K ethernet
+F https://datasheet.lcsc.com/lcsc/2104301136_Microchip-Tech-LAN8742AI-CZ-TR_C621425.pdf
+$ENDCMP
+#
+$CMP W5500
+D Ethernet Controllers 10/100 Base-T/TX PHY SPI 2.97V-3.63V LQFP-48_7x7x05P
+K wiznet w5500
+F https://datasheet.lcsc.com/lcsc/1811131221_WIZNET-W5500_C32843.pdf
 $ENDCMP
 #
 #End Doc Library

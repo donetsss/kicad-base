@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP8266EX
+D MCU 2.4GHz 16dBm Wifi Transciever
+K wifi esp
+$ENDCMP
+#
+#End Doc Library
