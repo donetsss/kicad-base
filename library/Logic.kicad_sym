@@ -961,7 +961,7 @@
       )
     )
   )
-  (symbol "74HC14" (extends "SN74AHC14PWR")
+  (symbol "74HCT14" (extends "SN74AHC14PWR")
     (property "Reference" "U" (at 15.24 -15.24 0)
       (effects (font (size 1.27 1.27)))
     )
